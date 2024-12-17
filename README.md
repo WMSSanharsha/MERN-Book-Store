@@ -12,10 +12,10 @@ This is a React application for managing books. It allows users to create, edit,
 
 # Technologies
 
--React for frontend
--Tailwind for Styling
--Node/Express for server
--Mongodb for DB
+- **React for frontend
+- **Tailwind for Styling
+- **Node/Express for server
+- **Mongodb for DB
 
 ![Screenshot 2024-12-17 203709](https://github.com/user-attachments/assets/b5ce762c-a9f5-4d08-b372-6dcfdf5184cf)
 ![Screenshot 2024-12-17 203749](https://github.com/user-attachments/assets/ed35dfc7-18a4-4b2f-bd87-af6d6f7c6bed)
